@@ -3,7 +3,7 @@
 <h3>About this app: 🙌</h3>
 Hi reader, you might have used or heard about the Youtube, It's an website that generally used to watching various type of video.
 <h3>It's a solo project❤</h3>
-<h3>Deployment link : <a href="https://github.com/sunilverma11/Youtube-Clone.github.io/html" />https://github.com/sunilverma11/Youtube-Clone.github.io/html</a></h3>
+<h3>Deployment link : <a href="https://sunilverma11.github.io/Youtube-Clone.github.io/html/" />https://sunilverma11.github.io/Youtube-Clone.github.io/html/</a></h3>
    <h3>Features:</h3>
       <ul>
             <li> Users can search video.</li>
@@ -17,10 +17,8 @@ Hi reader, you might have used or heard about the Youtube, It's an website that 
    <h3>Tool kits we used to build this project: 🛠</h3>
   <ul>
    <li>JavaScript</li>
-   <li>ReactJS</li>
-   <li>MongoDB</li>
-   <li>NodeJS</li>
-   <li>Express</li>
+   <li>Fetch-Api</li>
+   <li>Html</li>  
    <li>CSS</li></ul>
-  <h4>This is the short overview of my mini project and check my works by downloading the files for more understanding.</h4>
+  <h4>This is the short overview of this mini project and check my works by downloading the files for more understanding.</h4>
   <h4>Thank you 🙌</h4>
